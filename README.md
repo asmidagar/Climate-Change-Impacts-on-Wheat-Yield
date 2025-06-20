@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-This project investigates how **climate change**, specifically rising **temperatures** over time, is affecting **wheat crop yields** globally. Using real-world data, we apply **Polynomial Regression** to model the relationship between **average annual temperature**, **year**, and **wheat yield** for two major wheat-producing countries: **India** and the **United States**.
+This project investigates how **climate change**, specifically rising **temperatures** over time, is affecting **wheat crop yields** globally. Using real-world data, we apply **Polynomial Regression** to model the relationship between **average annual temperature**, **year**, and **wheat yield** for two major wheat-producing countries: **India** and the **Canada**.
 
 ---
 
@@ -11,7 +11,7 @@ This project investigates how **climate change**, specifically rising **temperat
 - Analyze how rising temperatures and changing years affect wheat yields.
 - Build country-specific regression models to capture regional effects.
 - Visualize results with 2D and 3D plots for better interpretability.
-- Compare model performance between India and the USA.
+- Compare model performance between India and the Canada.
 
 ---
 
@@ -54,15 +54,7 @@ This project investigates how **climate change**, specifically rising **temperat
 
 - Polynomial models achieved strong R² values for both countries.
 - Temperature and year both significantly impact wheat yield.
-- India and USA show different sensitivities to climate change due to their geographical and technological differences.
-
----
-
-## 📈 Sample Visuals
-
-- ✅ Actual vs Predicted Wheat Yield (India & USA)  
-- ✅ 3D Surface Plot showing climate impact  
-*(Run the notebook to see plots)*
+- India and Canada show different sensitivities to climate change due to their geographical and technological differences.
 
 ---
 
@@ -94,5 +86,6 @@ This project investigates how **climate change**, specifically rising **temperat
 
 **Asmi Dagar**  
 *A B.tech Student & Data Science Enthusiast*  
-LinkedIn: [www.linkedin.com/in/asmi-dagar-7b4441289](#) | GitHub: [https://github.com/asmidagar](#)
+LinkedIn: [www.linkedin.com/in/asmi-dagar-7b4441289](#)  
+GitHub: [https://github.com/asmidagar](#)
 ---
