@@ -94,5 +94,5 @@ This project investigates how **climate change**, specifically rising **temperat
 
 **Asmi Dagar**  
 *A B.tech Student & Data Science Enthusiast*  
-LinkedIn: [www.linkedin.com/in/asmi-dagar-7b4441289](#) | GitHub: [](#)
+LinkedIn: [www.linkedin.com/in/asmi-dagar-7b4441289](#) | GitHub: [https://github.com/asmidagar](#)
 ---
